@@ -1,0 +1,227 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.set-login {
+  display: flex;
+}
+
+.leftbox {
+  background: linear-gradient(180deg, #233862 0%, #20222c 100%);
+  max-width: 50%;
+  width: 50%;
+}
+
+.ugo-logo-text p {
+  color: white;
+  font-family: "poppins-bold";
+  font-size: 35px;
+  line-height: 35px;
+  margin: 20px 0px;
+  letter-spacing: 2px;
+}
+
+.ugo-login-set {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.logo-set img {
+  height: 130px;
+  width: 130px;
+  object-fit: contain;
+}
+
+.ugo-logo-inner p {
+  color: white;
+  font-size: 14px;
+  line-height: 23px;
+  font-family: "poppins-regular";
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.rightbox {
+  margin-left: auto;
+  height: 100vh;
+  max-width: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-box {
+  max-width: 391px !important;
+  width: 391px;
+  flex: 0 0 391px;
+  padding: 30px;
+  border: 1px solid #2b478b;
+  border-radius: 10px;
+}
+
+.box-text {
+  margin-bottom: 36px;
+}
+
+.box-text p {
+  font-size: 18px;
+  line-height: 23px;
+  color: #2b478b;
+  font-family: "poppins-bold";
+  text-align: center;
+}
+
+.input-design-div .password {
+  margin-top: 20px !important;
+}
+
+.input-design-ugo .MuiInputBase-input {
+  padding-left: 14px !important;
+  color: #233862 !important;
+  font-size: 12px !important;
+  font-family: "poppins-regular" !important;
+  line-height: 20px;
+}
+
+.main-email-set {
+  position: relative;
+}
+
+.admin-input-design {
+  width: 100%;
+}
+
+.main-email-set .MuiInputBase-input {
+  padding-left: 35px !important;
+}
+
+.set-password-box {
+  width: 100%;
+}
+
+.main-email-set svg {
+  fill: #aba8c0;
+}
+
+.error-msg {
+  text-align: left;
+  color: red;
+  margin-left: 15px !important;
+  font-size: 12px !important;
+}
+
+.input-design-ugo .MuiFilledInput-input::placeholder {
+  color: #222f4c !important;
+  /* opacity: 1; */
+}
+
+.input-design-div .input-placeholder input::placeholder {
+  color: #02091c !important;
+  line-height: 18px !important;
+  /* font-family: 'poppines-bold' !important; */
+  font-weight: 600 !important;
+  font-size: 12px !important;
+}
+
+.input-design-div .MuiFilledInput-underline,
+.input-design-div .MuiFilledInput-underline:hover,
+.input-design-div .MuiFilledInput-underline.Mui-focused {
+  background: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  height: 40px;
+  border: 1px solid #20222c1f;
+}
+
+/* .input-design-div {
+  margin-top: 20px !important;
+} */
+
+.email-set img {
+  width: 15px;
+  height: 17px;
+}
+
+.main-email-set {
+  position: relative !important;
+}
+
+.input-design-div .MuiFilledInput-underline {
+  border-color: lightgrey !important;
+}
+
+.input-placeholder {
+  border-color: lightgrey !important;
+}
+
+.main-email-set svg {
+  fill: #aba8c0;
+}
+
+.main-email-set .MuiInputBase-input {
+  padding-left: 35px !important;
+}
+
+.email-set {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+}
+
+.email-set {
+  width: 15px;
+  height: 17px;
+}
+
+.common-btn {
+  text-decoration: none;
+}
+
+.login-btn-main {
+  margin: 36px 0px 20px;
+}
+
+.login-btn button {
+  /* width: 41.784%; */
+  width: 100%;
+}
+
+.common-btn a {
+  text-decoration: none;
+}
+
+.common-btn-modal button,
+.common-btn-modal button:hover,
+.common-btn-modal .buttons,
+.common-btn-modal .buttons:hover {
+  min-width: 300px;
+  /* min-width: 170px; */
+}
+
+.ugo-login-text p {
+  margin-bottom: 20px !important;
+  font-size: 12px;
+  color: #2b478b;
+  line-height: 18px;
+  margin: 15px 0px 40px 0px;
+  font-family: "poppins-regular";
+}
+
+.forgot p {
+  margin: 0px !important;
+  text-align: center !important;
+}
+
+.box-login-text p {
+  font-size: 12px;
+  color: #2b478b;
+  line-height: 18px;
+  margin: 15px 0px 40px 0px;
+  font-family: "poppins-bold";
+}

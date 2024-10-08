@@ -1,0 +1,91 @@
+.table-td{
+    white-space: nowrap !important;
+}
+.controllist-data{
+
+  height: 70px;
+
+}
+
+.controllist-img{
+  width: 200px;
+  height: 90px;
+  /* object-fit: contain; */
+    /* padding: 1px 0px 1px 0px !important; */
+    border-radius: 5px !important;
+}
+
+.user-search-box {
+    position: relative;
+    margin-right: 10px;
+  }
+  
+  .user-search-box .form-control input {
+    padding: 6px 0px 7px 30px;
+  }
+  .user-search-box .form-control input::placeholder {
+    color: #6b7280;
+    font-size: 13px;
+    line-height: 20px;
+    font-family: "Poppins-Regular";
+    opacity: 1;
+  }
+
+  .control-table-main .table {
+    margin: 0px;
+  }
+  
+  .control-table-main .table .table-th {
+    background-color: rgb(136, 190, 240);
+    padding: 10px 10px 10px 8px;
+    text-align-last: center;
+  }
+  
+  .control-table-main .table .table-td {
+    padding: 1px 10px 20px 15px;
+/* background-color: black;    */
+ text-align-last: center;
+  }
+
+  /* .control-table-main .table .table-th:first-child {
+    text-align: center;
+  }
+  .control-table-main .table .table-th:nth-child(1),
+  .control-table-main .table .table-td:nth-child(1) {
+    width: 5%;
+  }
+  
+  .control-table-main .table .table-th:nth-child(2),
+  .control-table-main .table .table-td:nth-child(2) {
+    width: 12%;
+  }
+  
+  .control-table-main .table .table-th:nth-child(3),
+  .control-table-main .table .table-td:nth-child(3) {
+    width: 12%;
+  }
+  
+  .control-table-main .table .table-th:nth-child(4),
+  .control-table-main .table .table-td:nth-child(4) {
+    width: 25%;
+  }
+  
+  .control-table-main .table .table-th:nth-child(5),
+  .control-table-main .table .table-td:nth-child(5) {
+    width: 12%;
+  }
+  
+  .control-table-main .table .table-th:nth-child(6),
+  .control-table-main .table .table-td:nth-child(6) {
+    width: 8%;
+  }
+  
+  .control-table-main .table .table-th:nth-child(7),
+  .control-table-main .table .table-td:nth-child(7) {
+    width: 15%;
+  }
+  
+  .control-table-main .table .table-th:nth-child(8),
+  .control-table-main .table .table-td:nth-child(8) {
+    width: 15%;
+  } */

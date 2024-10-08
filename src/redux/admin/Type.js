@@ -1,0 +1,2 @@
+export const ADMIN_LOGIN = "ADMIN_LOGIN";
+export const PROFILE_DETAIL="PROFILE_DETAIL";

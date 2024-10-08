@@ -1,0 +1,160 @@
+.resend-otp-code{
+  color: #9196ad!important;
+}
+
+.common-btn{
+  justify-content: center !important;
+}
+
+.back-header {
+    background: linear-gradient(180deg, #11074C 0%, #20222C 100%);
+    padding: 31.5px 30px;
+    position: relative;
+  }
+
+  .res-back-header{
+    position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+    }
+
+    .backheader-inner .back {
+        color: #fff;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        text-decoration: none;
+        font-family: 'poppins-semibold';
+      }
+
+      .back img {
+        margin-right: 11px;
+      }
+
+      .backheader-inner .back {
+        color: #fff;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        text-decoration: none;
+        font-family: 'poppins-semibold';
+      }
+
+      .auto-innercontent {
+        height: calc(100vh - 84px);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 15px;
+        flex-direction: column;
+        margin-top: 84px;
+      }
+      
+      .ugo-logo-set {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+        flex-direction: column;
+      
+      }
+
+      .dark-logo-set img {
+        height: 77px;
+        width: 100px;
+        object-fit: contain;
+      }
+
+      .dark-ugo-logo-text p {
+        color: black;
+        font-family: 'poppins-bold';
+        font-size: 25px;
+        line-height: 28px;
+        margin: 10px 0px;
+        letter-spacing: 2px;
+      }
+
+      .dark-ugo-logo-inner p {
+        color: black;
+        font-size: 13px;
+        line-height: 23px;
+        font-family: 'poppins-regular';
+        text-align: center;
+        letter-spacing: 1px;
+      }
+
+      .bottom-box {
+        display: flex;
+        justify-content: center;
+      
+      }
+
+      .main-box {
+        max-width: 391px !important;
+        width: 391px;
+        flex: 0 0 391px;
+        padding: 30px;
+        border: 1px solid #2B478B;
+        border-radius: 10px;
+      
+      }
+
+      .box-text {
+        margin-bottom: 36px;
+      }
+
+      .box-text p {
+        font-size: 18px;
+        line-height: 23px;
+        color: #2B478B;
+        font-family: 'poppins-bold';
+        text-align: center;
+      }
+ 
+      .d-flex{
+        margin-bottom: 0% !important;
+      }
+      .verify-design-div {
+        max-width: 92%;
+        margin: auto;
+      }
+      .MuiStack-root{
+        margin-bottom: 0px !important;
+      }
+
+      .input-design-div .input-placeholder input::placeholder {
+        color: #233862;
+        line-height: 20px;
+      
+      }
+
+      .box-login-text p {
+        font-size: 12px;
+        color: #2B478B;
+        line-height: 18px;
+        margin: 15px 0px 40px 0px;
+        font-family: 'poppins-bold';
+      }
+
+      .verify-box {
+        margin-top: 20px;
+      }
+
+      .forgot p {
+        margin: 0px !important;
+        text-align: center !important;
+      }
+      
+      .forgot a {
+        color: #2B478B;
+        font-family: 'poppins-bold';
+      }
+
+      .MuiInputBase-input{
+        height: 40px !important;
+      }
+
+      .box-login-text{
+        text-align: center !important;
+      }

@@ -1,0 +1,198 @@
+.mini-card-main {
+  margin-left: 25px;
+  display: flex;
+  align-items: center;
+  width: 95%;
+}
+
+.admin-panel-content .head-title {
+  font-family: "poppins-bold";
+  color: #003d90;
+  line-height: 25px;
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-align: start;
+}
+
+.mini-card-img img {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+
+.mini-card {
+  width: calc(100% / 5);
+  flex: 0 0 calc(100% / 5);
+  max-width: calc(100% / 5);
+  height: 50px;
+}
+
+.mini-card-img {
+  /* background-color: #fccaf2; */
+  border-radius: 4px;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mini-card:last-child {
+  margin-right: 0;
+}
+
+.mini-card-2 {
+  background-color: #cafcd9 !important;
+}
+
+.mini-card-3 {
+  background-color: #f6f1a8 !important;
+}
+
+.mini-card-4 {
+  background-color: #dbcafc !important;
+}
+
+.mini-card-5 {
+  background-color: #fce1ca !important;
+}
+
+.mini-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 5px;
+}
+
+.card-right-content {
+  width: 280px;
+  height: 130px;
+  margin-bottom: 50px;
+  /* background-color: #627ec6; */
+  margin-left: 30px;
+  border-radius: 2px !important;
+  box-shadow: 4px 4px 6px #c4c9ce;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-right-contents {
+  width: 280px;
+  height: 110px;
+  margin-bottom: 50px;
+  /* background-color: #627ec6; */
+  margin-left: 30px;
+  border-radius: 2px !important;
+  box-shadow: 4px 4px 6px #c4c9ce;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-right-contents .card-total {
+  color: #ffffff;
+  margin-top: 7px;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 16px;
+  margin-bottom: 2px;
+  font-family: "poppins-regular";
+
+  text-align: left;
+}
+
+.card-right-contents .card-view {
+  color: #6452ca;
+  margin-top: 15px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  margin-bottom: 2px;
+  font-family: "poppins-regular";
+
+  text-align: right;
+}
+
+.card-right-content-box {
+  margin-right: 20px;
+  padding: 20px 0px 20px 0px !important;
+  width: 60%;
+}
+.card-right-contents .card-price {
+  color: #ffff;
+  font-size: 20px;
+  line-height: 27px;
+  font-family: "poppins-regular";
+  word-break: break-word;
+
+  text-align: left;
+}
+
+.card-right-content .card-total {
+  color: #ffffff;
+  margin-top: 7px;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 16px;
+  margin-bottom: 2px;
+  font-family: "poppins-regular";
+
+  text-align: left;
+}
+
+.card-link {
+  text-decoration: none !important;
+}
+
+.card-right-content .card-view {
+  color: #ffffff;
+
+  margin-top: 15px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  margin-bottom: 2px;
+  font-family: "poppins-regular";
+
+  text-align: left;
+}
+
+.card-right-content-box {
+  margin-right: 20px;
+  padding: 20px 0px 20px 0px !important;
+  width: 60%;
+}
+.card-right-content .card-price {
+  color: #ffff;
+  font-size: 20px;
+  line-height: 27px;
+  font-family: "poppins-regular";
+  word-break: break-word;
+
+  text-align: left;
+}
+
+.mini-card-img .icon {
+  margin-top: 15px;
+  height: 50px;
+  width: 50px;
+  color: #ffffff9c;
+}
+
+.box-color {
+  background-color: #904a1bcf !important;
+}
+
+.box-colors {
+  background-color: #2f436b !important;
+
+}
+
+.adduser-btn-main .select-form .adduser-btn svg{
+  color: white;
+}
+
+.adduser-btn-main .select-form {
+  height: 32px;
+  margin-right: 10px;
+
+}

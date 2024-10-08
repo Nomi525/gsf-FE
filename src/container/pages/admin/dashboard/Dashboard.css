@@ -1,0 +1,17 @@
+.set-textarea-box {
+    height: 47px;
+    width: 100%;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 10px 16px;
+    resize: none;
+  }
+
+  .set-textarea-box:focus {
+    outline: none;
+  }
+  
+  .dashboard-containt-main {
+    width: calc(100% - 290px);
+    margin-left: auto;
+  }
